@@ -81,7 +81,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     camera.msm8916 \
     libbson \
-    Camera2
+    Snap
 
 # CMActions
 PRODUCT_PACKAGES += \
